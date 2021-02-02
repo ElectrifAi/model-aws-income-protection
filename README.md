@@ -1,4 +1,4 @@
-# Income Protection
+# Income Protection Model
 
 ## Description
-Income protection model helps insurance comapnies to determine the time , complexity and cost for each claim raised by its customers
+Income protection model helps insurance companies to determine the time, complexity and cost for each claim raised by their customers
